@@ -13,9 +13,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281511480762']
-global.ownernomer = "6281511480762"
-global.premium = ['6281511480762']
+global.owner = ['94770611075']
+global.ownernomer = "94770611075"
+global.premium = ['94770611075']
 global.packname = 'Sticker By'
 global.author = 'Putra Dz'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
@@ -44,13 +44,13 @@ global.limitawal = {
 }
 global.thumb = fs.readFileSync('./media/image/naze.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
-global.mygit = 'https://github.com/AzzBott679'
-global.myyt = 'https://youtube.com/c/Putra Dz'
-global.myytv = 'https://youtube.com/shorts/HTh5O43sSus?feature=share'
-global.mygc = "https://chat.whatsapp.com/CkguID8hSdSFAaBrKNHLSr"
-global.botname = 'Putra Dz'
-global.akulaku = 'Bot PutraDz'
-global.ytname = 'YT Putra Dz'
+global.mygit = 'https://chat.whatsapp.com/DBkS1vKfMwb6c9EVbGzNDu'
+global.myyt = 'https://chat.whatsapp.com/DBkS1vKfMwb6c9EVbGzNDu'
+global.myytv = 'https://chat.whatsapp.com/DBkS1vKfMwb6c9EVbGzNDu'
+global.mygc = "https://chat.whatsapp.com/DBkS1vKfMwb6c9EVbGzNDu"
+global.botname = 'WA BOT'
+global.akulaku = 'PRAMEE'
+global.ytname = 'E MONEY EXPERTS'
 
 
 let file = require.resolve(__filename)
